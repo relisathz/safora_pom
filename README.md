@@ -40,8 +40,4 @@ mvn  test
 
 ###  Author-Dulakshmi Sathsarani
 
-Your Name
 
----
-
-If you want, I can also make a **professional GitHub README with badges, screenshots, and structure like real companies use**.
