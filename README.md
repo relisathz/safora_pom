@@ -12,7 +12,6 @@ A simple script that automates the "Contact Us" form on the Safora site-selenium
 * Java
 * Selenium WebDriver
 * Maven
-* TestNG (if used)
 * VS Code / IntelliJ IDEA
 * Chrome Browser
 
