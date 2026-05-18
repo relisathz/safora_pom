@@ -1,6 +1,9 @@
+----------------------
+Basic UI Automation
+----------------------
 Project Description
 
-This project is a Selenium Web Automation testing framework using Java and Maven. It automates browser test cases for web application testing.
+A simple script that automates the "Contact Us" form on the Safora site-selenium+java
 
 
 
@@ -15,20 +18,27 @@ This project is a Selenium Web Automation testing framework using Java and Maven
 
 
 
-### How to Run the Project
+### How to Run the Script
 
-#### Using VS Code
+###How to Run my script?(VS Code)
+1.	Open the project in Visual Studio Code
+2.	Open the terminal inside VS Code.
+3.	Make sure all dependencies are already added in pom.xml.
+4.	Run the project using Maven:
+                mvn test
+5.	Script will start the browser and execute the test cases automatically.
 
-```bash
-mvn  test
-```
+###How to Run my script?( IntelliJ IDEA)
+1.	Open the project 
+2.	Wait for Maven to load dependencies 
+3.	Go to src/test/java 
+4.	Right-click the test class 
+5.	Click Run 
+6.	Script will execute in browser automatically 
 
-#### Using IntelliJ IDEA
 
-* Open test class inside `src/test/java`
-* Right-click → Run
 
-------------
+
 
 ### Prerequisites
 
